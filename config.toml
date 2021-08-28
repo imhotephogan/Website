@@ -23,10 +23,11 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   logo = "images/banner.jpg"
   favicon = true
 
+## Change to my social media accounts
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
+  github = "https://github.com/imhotephogan"
+  twitter = "https://twitter.com/imhotepbhogan"
+  email = "imhotep1.hogan@famu.edu"
   instagram = "https://instagram.com"
   linkedin = "https://linkedin.com"
   telegram = "https://telegram.org"
