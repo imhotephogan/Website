@@ -4,10 +4,10 @@ title : "Imhotep Ben-Elliott Hogan"
 subtitle: |
   Class of 2022 mathematics major at <a target="_blank" href="https://famu.edu/">Florida A&ampM University</a>.
 content : |
-  Hello! I'm Imhotep, a <a target ="_blank" href ="https://www.msri.org/msri_ups/967/schedules/30242">researcher in algebraic combinatorics</a> and general lover of mathematics, gardening, and cooking vegetarian dishes! I plan on completing a PhD  in mathematics, starting in Fall 2022. Updates coming soon!
+  Hello! I'm Imhotep B. Hogan, a <a target ="_blank" href ="https://www.msri.org/msri_ups/967/schedules/30242">researcher in algebraic combinatorics</a> and general lover of mathematics, gardening, and cooking vegetarian dishes! I plan on completing a PhD in mathematics, beginning a graduate program in Fall 2022. Check back for updates!
 button:
   label : "Email me"
   link : "mailto:imhotep1.hogan@famu.edu"
-image : "images/ImhotepBHogan.jpg"
+image : "images/pic01.jpg"
 
 # <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
